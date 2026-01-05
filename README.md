@@ -1,6 +1,7 @@
 👋 Hi, I’m @antsteyer, a french guy and front-end engineer.
 
 👀 I’m interested in front-end web development, accessibility and UI/UX.
+
 💞️ I’m looking to collaborate on open-source projects in Vue or javascript ecosystems
 
 📫 How to reach me:
